@@ -11,7 +11,7 @@ def repeat(command: => Unit) = {
 
 var i = 0
 repeat {
-  println("Itteration #" + i)
+  println("Iteration #" + i)
   i = i + 1
-} until (i < 10)
+} until (i < 5)
   
