@@ -46,7 +46,7 @@ Iteration #3
 Iteration #4
 ```
 
-#How to run the code
+## How to run the code
 1) You need to have Scala SDK installed on your machine
 
 2) Run Scala console
