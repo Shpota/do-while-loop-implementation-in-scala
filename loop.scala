@@ -1,5 +1,5 @@
 def repeat(command: => Unit) = {
-   new {
+  new {
     def until(condition: => Boolean): Unit = {
       command
       if (condition)
