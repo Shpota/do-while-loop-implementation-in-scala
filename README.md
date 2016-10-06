@@ -3,6 +3,7 @@ Functional implementation of DO-WHILE loop
 
 Scala is wery powerfool language. Almost every scala feature may be implemented using only built in language features. I want to demonstrate how to implementat a loop.
 
+##
 Scala already has ```do-while``` loop, that is why I'm using ```repeat-until``` naming in the example.
 
 We want to implement something like this:
