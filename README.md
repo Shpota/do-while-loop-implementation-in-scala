@@ -1,5 +1,5 @@
-Functional implementation of DO-WHILE loop
-==========================================
+'Handmade' implementation of DO-WHILE loop in Scala
+===================================================
 
 Scala is wery powerfool language. Almost every scala feature may be implemented using only built in language features. I want to demonstrate how to implementat a loop.
 
